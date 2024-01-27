@@ -1,8 +1,8 @@
 ---
-title: Arvoden domare & funktionärer
+title: Arvoden domare & funktionärer
 description: 
 published: true
-date: 2024-01-27T22:06:37.676Z
+date: 2024-01-27T22:07:48.225Z
 tags: ekonomi
 editor: markdown
 dateCreated: 2024-01-27T22:06:37.676Z
