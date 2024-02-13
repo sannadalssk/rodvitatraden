@@ -2,7 +2,7 @@
 title: Cuper
 description: 
 published: true
-date: 2024-01-27T22:32:21.828Z
+date: 2024-02-13T22:06:34.191Z
 tags: verksamheten
 editor: markdown
 dateCreated: 2024-01-27T22:32:21.828Z
@@ -30,7 +30,7 @@ Givetvis uppmuntras och kan alltid lag åka på fler cuper under en säsong där
 | U11        | :white_check_mark: | :white_check_mark: | |
 | U10        | :white_check_mark: | :white_check_mark: | |
 | U9         | :white_check_mark: | :white_check_mark: | |
-| U8         | :white_check_mark: | :white_check_mark: | Sporrong Cup |
+| U8         | :white_check_mark: | :white_check_mark: | Minibollen |
 
 ### Förtydliganden
 
