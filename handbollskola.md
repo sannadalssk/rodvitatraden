@@ -2,7 +2,7 @@
 title: Handbollskola
 description: 
 published: true
-date: 2024-01-27T23:00:35.184Z
+date: 2024-08-29T08:38:05.729Z
 tags: kunskapsmål
 editor: markdown
 dateCreated: 2024-01-27T23:00:35.184Z
@@ -74,3 +74,6 @@ Föräldrar tidigt delaktiga i träningsmomenten. (barn mot vuxen-matcher)
 Tillfälle att rekrytera ledare.
 
 Barnen stiftar bekantskap med omklädningsrum och dusch. En första genomgång av vad man bör ha med sig i ”trunken”.
+
+## Säsongsplanering
+[Vägledning och mall för säsongsplanering finns här](/sasongsplanering).
