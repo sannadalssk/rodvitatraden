@@ -2,7 +2,7 @@
 title: Ledare
 description: 
 published: true
-date: 2024-01-27T23:19:39.483Z
+date: 2024-12-27T22:49:50.494Z
 tags: organisation
 editor: markdown
 dateCreated: 2024-01-27T23:19:39.483Z
@@ -23,7 +23,7 @@ Det är viktigt att redan från början öka förståelsen för domarnas arbete,
 ## Tillsättning av ledare i Sannadals SK
 Att vara ledare i Sannadals SK är ett förtroendeuppdrag och det är [styrelsen](/styrelsen) som är ytterst ansvarig för vilka som får uppdrag att vara ledare i ett lag. Som ledare i Sannadals SK är det bland annat viktigt att förstå och stå bakom den [värdegrund](/vardegrund) föreningen har.
 
-Med begreppet ledare avses till exempel följande: lagledare, tränare, huvudtränare, assisterande tränare, tekniktränare, fystränare, herransvarig, senioransvarig och ungdomsansvarig.
+Med begreppet ledare avses till exempel följande: lagledare, tränare, huvudtränare, assisterande tränare, tekniktränare, fystränare, senioransvarig och ungdomsansvarig.
 
 Förslag om vem/vilka som ska vara ledare i laget kan komma från andra ledare, föräldrar eller från annat håll. Förslaget lämnas till [styrelsen](/styrelsen) eller [Barnkommittén](/barnkommitte), [Ungdomskommittén](/ungdomskommitte) respektive [Seniorkommittén](/seniorkommitte) som har ett samtal med den som är föreslagen. Därefter fattas beslut om personen får förtroendet att vara ledare.
 
