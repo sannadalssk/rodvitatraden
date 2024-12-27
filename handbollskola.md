@@ -2,7 +2,7 @@
 title: Handbollskola
 description: 
 published: true
-date: 2024-08-29T08:38:05.729Z
+date: 2024-12-27T22:51:38.887Z
 tags: kunskapsmål
 editor: markdown
 dateCreated: 2024-01-27T23:00:35.184Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-27T23:00:35.184Z
 
 Ålder: 5-7 år (upp till U7)
 
-Uppstart för pojkar och flickor. I den här åldern är det allra viktigast att betona lek med boll. Bollen ska bli en av spelarens allra roligaste leksaker. Fritt spel på liten plan med mjuka bollar.
+I den här åldern är det allra viktigast att betona lek med boll. Bollen ska bli en av spelarens allra roligaste leksaker. Fritt spel på liten plan med mjuka bollar.
 
 Träningsgrupperna är oftast stora. Har vi bara tillgång till halvplan eller liten gymnastiksal måste ytorna utnyttjas maximalt.
 
