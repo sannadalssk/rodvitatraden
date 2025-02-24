@@ -2,7 +2,7 @@
 title: Ungdomskommitté
 description: 
 published: true
-date: 2024-01-28T00:23:24.109Z
+date: 2025-02-24T20:00:48.712Z
 tags: organisation
 editor: markdown
 dateCreated: 2024-01-28T00:23:24.109Z
@@ -11,17 +11,18 @@ dateCreated: 2024-01-28T00:23:24.109Z
 Ungdomskommittén leds av den av styrelsen utsedde ungdomsansvarige, vilken är sammankallande i kommittén. Ungdomskommittén ansvarar för det löpande arbetet med frågor som rör klubbens ungdomslag, U10 – U16. Den operativt ansvarige för det sportsliga är huvudtränaren för respektive lag, men ungdomskommittén fungerar som en samtalspartner för tränare och lagledare samt är även en länk till styrelsen. 
 
 ## Uppdrag och ansvar
-Ungdomskommitténs huvuduppdrag är att, i samråd med huvudtränarna och lagledarna för respektive lag, säkerställa att verksamheten bedrivs gentemot de krav, budget och målsättningar som utformats i samråd med styrelsen. Kommitténs ansvarsområden inbegriper, men är inte begränsade till att: 
+Ungdomskommitténs ansvarsområden inbegriper, men är inte begränsade till att: 
 * Följa, övervaka och utveckla verksamheten för föreningens barn- och ungdomslag, U10 – U16.
-	* U16 ska vidare till junior- och seniorverksamheten
-* Följa och övervaka behovet av tränare
-	* Rekrytering, utbildning och se till att tränarna klarar av lagets behov
-* Följa och övervaka behovet av lagledare
-	* Rekrytera och stötta
-* Följa och övervaka det sportsliga ansvaret för ungdomsverksamheten. Att lagen jobbar gemensamt efter Sannadals värdegrund och regler.
-* Engagera föräldrar i Sannadals verksamhet
-* Arrangera tränarforum och lagledarmöten under säsongen.
-* Bedöma behovet av och ta fram förslag på styrdokument för verksamheten
+*	U10 ska tas emot från barnverksamheten.
+*	U16 ska vidare till junior- och seniorverksamheten
+*	Följa och övervaka behovet av tränare.
+*	Hantera rekrytering och utbildning samt se till att tränarna klarar av lagets behov.
+*	Följa och övervaka behovet av lagledare. Rekrytera och stötta.
+*	Följa och övervaka det sportsliga ansvaret för ungdomsverksamheten i nära samarbete med Sportgruppen. Att lagen jobbar gemensamt efter Sannadals värdegrund och regler.
+*	Engagera föräldrar i Sannadals verksamhet
+*	Främja möjligheten till tränarforum och lagledarmöten under säsongen.
+*	Bedöma behovet av och ta fram förslag på styrdokument för verksamheten.
+
 
 ## Arbetsmetod
 * Ungdomskommittén sammanträder vid behov tillsammans med respektive lags huvudtränare och lagledare.
