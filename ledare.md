@@ -2,7 +2,7 @@
 title: Ledare
 description: 
 published: true
-date: 2025-03-29T16:42:21.549Z
+date: 2025-03-29T16:43:35.048Z
 tags: organisation
 editor: markdown
 dateCreated: 2024-01-27T23:19:39.483Z
